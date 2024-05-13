@@ -10,7 +10,7 @@ This project is a React-based portfolio website built using Vite.
 ## Getting Started
 
 1. **Clone the repository**
-git clone https://your-repository-url.git
+git clone https://github.com/patryk-banach/React-Portfolio-STM.git
 cd react_portfolio
 
 2. **Install dependencies**
