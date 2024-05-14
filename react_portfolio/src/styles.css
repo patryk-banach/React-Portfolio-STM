@@ -192,3 +192,34 @@ a{
       text-decoration: underline;
   }
 }
+
+.contact{
+  width: 80%;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 30px;
+  border: 1px solid #FAADCD;
+}
+
+label{
+font-family: sans-serif;
+font-weight: 600;
+color: var(--white);
+font-size: 20px;
+
+}
+
+input{
+  width: 80%;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: 1px solid;
+  border-color: #FAADCD;
+  margin-top: 10px;
+background-color: rgba(147, 148, 193, 0.513);
+margin-bottom: 15px;
+}
+
+#message{
+  padding: 40px;
+}

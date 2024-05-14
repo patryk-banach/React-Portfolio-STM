@@ -3,7 +3,7 @@ import Header from "./Header"
 import Content from "./Content"
 import Work from "./Work"
 import Bulla from "./Bulla"
-
+import Contact from "./Contact"
 
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
       <Header />
       <Content />
       <Bulla />
+      <Contact />
     </div>
   );
 }
